@@ -26,6 +26,16 @@ theft-opensourcet > python setup.py install
 ```
 
 
+### IF you wanna use my system that i have already create it in the another repository for to check the how to use our system try to check the repository called 
+
+```bash
+git clone https://github.com/AdamMashaka/theft-detector
+cd theft-detector
+theft-detector > python manage.py runserver 
+....
+```
+
+
 #### Saved user name
 
 If you wanna use our currently vission of model in our simple system you have to create user name in you are cdm in order to sign in;
@@ -47,7 +57,7 @@ Here an Example on how to do that
 if you wanna use our simople system without to signin as a super user just use our currently username 
 
 ```python
->>> Kayuza
+>>> adam
 >>> pasword
 >>> 123456789
 ```
