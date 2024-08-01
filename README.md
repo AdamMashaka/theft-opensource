@@ -82,4 +82,7 @@ All the credits to:
 
 - and all the contributors
 
+
+### Do not forget to give it a star
+
 </samp>
