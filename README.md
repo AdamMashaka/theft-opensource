@@ -35,6 +35,10 @@ theft-detector > python manage.py runserver
 ....
 ```
 
+<img src="thef.png" alt="drawing" width="400"/>
+
+Above it is how it would look like if you run in you are local server and the below i will tell you how to use it after to clone and run
+
 
 #### Saved user name
 
